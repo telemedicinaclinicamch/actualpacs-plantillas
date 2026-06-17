@@ -7,6 +7,8 @@
 // @match        http://magali.actualpacs.com/actualpacs/report/create*
 // @run-at       document-end
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/telemedicinaclinicamch/actualpacs-plantillas/main/actualpacs-plantillas.user.js
+// @downloadURL  https://raw.githubusercontent.com/telemedicinaclinicamch/actualpacs-plantillas/main/actualpacs-plantillas.user.js
 // ==/UserScript==
 
 (function() {
