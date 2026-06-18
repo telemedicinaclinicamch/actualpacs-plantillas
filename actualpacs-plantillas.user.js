@@ -414,7 +414,7 @@
                         "TOBILLO 3D"
                 ],
                 "plantilla": "TC DE TOBILLO\nTÉCNICA\nSe practica exploración TC mediante adquisición axial con ventana de partes blandas y ósea. Se realizan reconstrucciones\nmultiplanares.\nHALLAZGOS\nEstructuras oseas de tobillo con morfología y densidad ósea conservadas. No se aprecian signos de lesión ósea aguda\nArticulaciones tibioastragalina, subastragalinas , tibioperonea distal y articulaciones del tarso conservadas.\nAlineación normal.\nNo hay aumento significativo de partes blandas.\nCONCLUSIÓN\nNo se observan hallazgos de características patológicas significativas en el estudio actual."
-        }
+        },
         {
                 "nombre": "RX DE TORAX",
                 "alias": [
@@ -427,7 +427,7 @@
                         "PECHO DE ADULTO: 2 VISTAS"
                 ],
                 "plantilla": "RX DE TORAX \nTÉCNICA\nSe obtienen radiografías de tórax en proyecciones PA y lateral.\nHALLAZGOS\nEl revestimiento de partes blandas del tórax es normal. Las estructuras óseas no muestran cambios de significado patológico. Diafragmas en posición habitual y ángulos costodiafragmáticos libres. Los pulmones tienen una aireación normal. La vasculatura pulmonar y la aorta no presentan alteraciones. La situación, los límites y el calibre de la tráquea son normales. No hay ensanchamiento de las líneas paratraqueales ni desplazamiento de las diferentes líneas mediastinales. Silueta cardíaca de tamaño y configuración normales.\nCONCLUSIÓN\nRX DE TÓRAX DENTRO DE LÍMITES NORMALES" 
-        }
+        },
         {
                 "nombre": "RX COLUMNA LUMBOSACRA",
                 "alias": [
