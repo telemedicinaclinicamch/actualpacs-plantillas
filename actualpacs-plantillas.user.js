@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Autoplantillas ActualPacs
 // @namespace    samonlineott-actualpacs
-// @version      3.2.1
+// @version      3.2.2
 // @description  Inserta plantillas automáticas oficiales en ventana de informe ActualPacs
 // @match        https://magali.actualpacs.com/actualpacs/report/create*
 // @match        http://magali.actualpacs.com/actualpacs/report/create*
