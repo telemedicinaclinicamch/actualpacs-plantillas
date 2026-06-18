@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Autoplantillas ActualPacs
 // @namespace    samonlineott-actualpacs
-// @version      3.2.2
+// @version      3.3.0
 // @description  Inserta plantillas automáticas oficiales en ventana de informe ActualPacs
 // @match        https://magali.actualpacs.com/actualpacs/report/create*
 // @match        http://magali.actualpacs.com/actualpacs/report/create*
@@ -575,6 +575,6 @@
         console.log('Plantilla insertada:', item.nombre, estudio);
     }
 
-    setTimeout(insertarPlantilla, 3000);
+    setTimeout(insertarPlantilla, 2000);
 
 })();
