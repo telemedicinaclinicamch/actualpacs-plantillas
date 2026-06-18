@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Autoplantillas ActualPacs
 // @namespace    samonlineott-actualpacs
-// @version      3.1.0
+// @version      3.2.0
 // @description  Inserta plantillas automáticas oficiales en ventana de informe ActualPacs
 // @match        https://magali.actualpacs.com/actualpacs/report/create*
 // @match        http://magali.actualpacs.com/actualpacs/report/create*
@@ -423,7 +423,8 @@
                         "RX DE TORAX NORMAL",
                         "RX TORAX",
                         "TORAX 2P",
-                        "RX TORAX PA"
+                        "RX TORAX PA",
+                        "PECHO DE ADULTO: 2 VISTAS"
                 ],
                 "plantilla": "RX DE TORAX \nTÉCNICA\nSe obtienen radiografías de tórax en proyecciones PA y lateral.\nHALLAZGOS\nEl revestimiento de partes blandas del tórax es normal. Las estructuras óseas no muestran cambios de significado patológico. Diafragmas en posición habitual y ángulos costodiafragmáticos libres. Los pulmones tienen una aireación normal. La vasculatura pulmonar y la aorta no presentan alteraciones. La situación, los límites y el calibre de la tráquea son normales. No hay ensanchamiento de las líneas paratraqueales ni desplazamiento de las diferentes líneas mediastinales. Silueta cardíaca de tamaño y configuración normales.\nCONCLUSIÓN\nRX DE TÓRAX DENTRO DE LÍMITES NORMALES" 
         }
@@ -436,6 +437,7 @@
                         "RX CLS",
                         "CLS".
                         "RADIOGRAFIA COLUMNA LUMBOSACRA",
+                        "RX DE C.L.S"
                         
                 ],
                 "plantilla": "RX DE COLUMNA LUMBOSACRA \nTÉCNICA\nSe practicaron proyecciones en anteroposterior y lateral de columna lumbosacra. \nHALLAZGOS\nEn las proyecciones obtenidas se observa que la forma y altura de los cuerpos vertebrales, así como también la amplitud de los espacios intervertebrales, están preservados. No hay signos de espondilolisis ni espondilolistesis.\nCONCLUSIÓN\n-Rx de columna lumbosacra normal." 
