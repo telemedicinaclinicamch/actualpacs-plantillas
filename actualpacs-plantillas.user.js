@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Autoplantillas ActualPacs
 // @namespace    samonlineott-actualpacs
-// @version      3.3.0
+// @version      3.4.0
 // @description  Inserta plantillas automáticas oficiales en ventana de informe ActualPacs
 // @match        https://magali.actualpacs.com/actualpacs/report/create*
 // @match        http://magali.actualpacs.com/actualpacs/report/create*
@@ -435,17 +435,13 @@
                         "RX DE COLUMNA LUMBOSACRA",
                         "COLUMNA LUMBAR: 2 VISTAS",
                         "RX CLS",
-                        "CLS".
+                        "CLS",
                         "RADIOGRAFIA COLUMNA LUMBOSACRA",
                         "RX DE C.L.S"
                         
                 ],
                 "plantilla": "RX DE COLUMNA LUMBOSACRA \nTÉCNICA\nSe practicaron proyecciones en anteroposterior y lateral de columna lumbosacra. \nHALLAZGOS\nEn las proyecciones obtenidas se observa que la forma y altura de los cuerpos vertebrales, así como también la amplitud de los espacios intervertebrales, están preservados. No hay signos de espondilolisis ni espondilolistesis.\nCONCLUSIÓN\n-Rx de columna lumbosacra normal." 
-        }
-
-        
-
-        
+        },
         
 ];
 
