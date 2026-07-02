@@ -437,7 +437,10 @@
                         "RX CLS",
                         "CLS",
                         "RADIOGRAFIA COLUMNA LUMBOSACRA",
-                        "RX DE C.L.S"
+                        "RX DE C.L.S",
+                        "RX DE CLS",
+                        "C.L.S"
+                        
                         
                 ],
                 "plantilla": "RX DE COLUMNA LUMBOSACRA \nTÉCNICA\nSe practicaron proyecciones en anteroposterior y lateral de columna lumbosacra. \nHALLAZGOS\nEn las proyecciones obtenidas se observa que la forma y altura de los cuerpos vertebrales, así como también la amplitud de los espacios intervertebrales, están preservados. No hay signos de espondilolisis ni espondilolistesis.\nCONCLUSIÓN\n-Rx de columna lumbosacra normal." 
